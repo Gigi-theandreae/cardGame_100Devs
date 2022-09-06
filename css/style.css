@@ -67,6 +67,12 @@ button{
   padding: 1rem 2.5rem;
 }
 
+button:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+  transition-duration: .3s;
+}
+
 h3{
   color: #f4f4f4;
   font-size: 3rem;
