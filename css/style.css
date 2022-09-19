@@ -14,10 +14,11 @@
 body{
   background: #001F3D;
   font-family: Helvetica, Arial, sans-serif;
+  height: 100vh;
 }
 
 .container {
-  margin-top: 4rem;
+  margin-top: 2rem;
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -26,7 +27,7 @@ body{
 }
 
 .cards-container {
-  margin-top: 4rem;
+  margin-top: 1rem;
   width: 70%;
   text-align: center;
   display:flex;
@@ -37,7 +38,7 @@ body{
 img{
   display: block;
   margin: 0 auto;
-  height: 15rem;
+  height: 18rem;
 }
 
 
@@ -51,9 +52,22 @@ h1{
   color: #f4f4f4;
 }
 
-h2,h4{
+input {
+  margin-bottom : 2rem;
+  max-width: 15rem;
+  padding: .5rem;
+  border-radius: 1rem;
+  border: 1px solid #001F3D;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #001F3D;
+  background: #f4f4f4;
+}
+
+h4{
   color: #f4f4f4;
-  font-size: 2rem;
+
 }
 
 button{
@@ -75,7 +89,7 @@ button:hover {
 
 h3{
   color: #f4f4f4;
-  font-size: 3rem;
+  font-size: 2rem;
 }
 
 
