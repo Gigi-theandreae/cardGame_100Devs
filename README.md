@@ -1,5 +1,4 @@
-
-https://user-images.githubusercontent.com/104654408/188716637-232d8bbe-f2b3-451f-9a4c-355dc1e50476.mp4
+https://user-images.githubusercontent.com/104654408/191455785-35819847-b421-4960-9c7d-617af3b5572c.mp4
 
 
 ## You can play the game  [here](https://gigi-theandreae.github.io/cardGame_100Devs/)
